@@ -1,6 +1,6 @@
 ## Hola, Soy Matías! 👋
 
-### Soy un (futuro) estudiante de Ingeniería en sistemas, y un programador aficionado!
+### Soy un  estudiante de Ingeniería en sistemas, y un programador aficionado!
 - 🔭 Actualmente trabajo en un proyecto presonal con Unity e IA!
 - 🌱 Me gusta aprender de todo 🤣
 - 🥅 Objetivo 2021: Subir Mi primera app a playstore
