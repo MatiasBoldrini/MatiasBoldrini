@@ -4,7 +4,7 @@
 - 🔭 Actualmente trabajo en un proyecto presonal con Unity e IA!
 - 🌱 Me gusta aprender de todo 🤣
 - 🥅 Objetivo 2021: Subir Mi primera app a playstore
-- ⚡ Hobbies: Jugar Videojuegos, Programar
+- ⚡ Hobbies: Jugar Videojuegos, Programar, Go Biking
 
 ### Mis redes Sociales
 
