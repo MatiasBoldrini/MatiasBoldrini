@@ -13,21 +13,6 @@
 [<img align="left" alt="Matias Boldrini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-## Hi, I'm Matías! 👋
-
-### I'm Systems engineer, and an amateur programmer!
-- 🔭 Actually, I'm working on a proyect with Unity and A.I!
-- 🌱 I love learning new things! 🤣
-- 🥅 2021 Objetive: Upload my first app to Google Play Store.
-- ⚡ Hobbies: Play VideoGames, Programming, Mountain Biking.
-
-### Mis redes Sociales
-
-[<img align="left" alt="Matias Boldrini | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Matias Boldrini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Matias Boldrini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
 
 ### Lenguajes y Herramientas:
 
