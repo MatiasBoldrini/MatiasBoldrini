@@ -1,5 +1,5 @@
+![](img/Aquamarine and Orange Bordered Games Collection YouTube Channel Art.png)
 ## Hola, Soy Matías! 👋
-
 ### Soy un  estudiante de Ingeniería en sistemas, y un programador aficionado!
 - 🔭 Actualmente trabajo en un proyecto presonal con Unity e IA!
 - 🌱 Me gusta aprender de todo 🤣
