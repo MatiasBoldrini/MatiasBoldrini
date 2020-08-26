@@ -1,4 +1,4 @@
-![](img/cover.png)
+![gif](https://github.com/ShadowFighter99/ShadowFighter99/blob/master/img/about.gif)
 ## Hola, Soy Matías! 👋
 ### Soy un  estudiante de Ingeniería en sistemas, y un programador aficionado!
 - 🔭 Actualmente trabajo en un proyecto presonal con Unity e IA!
