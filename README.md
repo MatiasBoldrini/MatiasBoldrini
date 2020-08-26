@@ -39,7 +39,6 @@
 
 
 <img align="left" alt="Mis estadisticas de Github" src="https://github-readme-stats.vercel.app/api?username=ShadowFighter99&show_icons=true&hide_border=true" />
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [website]: https://www.youtube.com/channel/UChnXf3O49gMiyDc_RhVcP7w
 [youtube]: https://www.youtube.com/channel/UChnXf3O49gMiyDc_RhVcP7w
 [instagram]: https://www.instagram.com/matibol_16/?hl=es-la
