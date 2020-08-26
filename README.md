@@ -39,7 +39,7 @@
 
 
 <img align="left" alt="Mis estadisticas de Github" src="https://github-readme-stats.vercel.app/api?username=ShadowFighter99&show_icons=true&hide_border=true" />
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSupeng&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowFighter99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://www.youtube.com/channel/UChnXf3O49gMiyDc_RhVcP7w
 [youtube]: https://www.youtube.com/channel/UChnXf3O49gMiyDc_RhVcP7w
