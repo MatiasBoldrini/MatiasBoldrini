@@ -1,4 +1,4 @@
-![MBLogo](https://github.com/ShadowFighter99/ShadowFighter99/blob/master/README.md)
+![MBLogo](https://github.com/ShadowFighter99/ShadowFighter99/blob/master/img/cover.png)
 
 ## Hola, soy Matías! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
