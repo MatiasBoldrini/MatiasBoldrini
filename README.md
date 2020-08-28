@@ -22,7 +22,7 @@ Si querés contactarme, acá están mis redes sociales!
 ![Arduino](https://img.shields.io/badge/-Arduino-darkblue?style=flat-square&logo=arduino)
 ![Processing](https://img.shields.io/badge/-Processing-C51A4A?style=flat-square&logo=processing)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowfighter99=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ShadowFighter99&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowFighter99=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
