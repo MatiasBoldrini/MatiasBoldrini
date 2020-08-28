@@ -23,6 +23,6 @@ Si querés contactarme, acá están mis redes sociales!
 ![Processing](https://img.shields.io/badge/-Processing-C51A4A?style=flat-square&logo=processing)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ShadowFighter99&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowFighter99=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowFighter99&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShadowFighter99.ShadowFighter99)
