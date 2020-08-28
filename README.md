@@ -20,9 +20,7 @@ Si querés contactarme, acá están mis redes sociales!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Arduino](https://img.shields.io/badge/-Arduino-darkblue?style=flat-square&logo=arduino)
 ![Processing](https://img.shields.io/badge/-Processing-C51A4A?style=flat-square&logo=processing)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=shell)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=bash)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=linux)
+![GitHub](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ShadowFighter99&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadowFighter99&layout=compact)
