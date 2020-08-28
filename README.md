@@ -3,7 +3,7 @@
 Actualmente soy un estudiante de ingeniería en sistemas en la [UTN](https://www.utn.edu.ar/es/).
 Si querés contactarme, acá están mis redes sociales!
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/matías-boldrini-93b146192)]( https://www.linkedin.com/in/matías-boldrini-93b146192)
+[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matías-boldrini-93b146192/)]( https://www.linkedin.com/in/matías-boldrini-93b146192/)
 [![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/matibol_16/)](https://www.instagram.com/matibol_16/)
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UChnXf3O49gMiyDc_RhVcP7w)](https://www.youtube.com/channel/UChnXf3O49gMiyDc_RhVcP7w)
 [![Gmail Badge](https://img.shields.io/badge/-matias@boldrini.com.ar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matias@boldrini.com.ar)](matias@boldrini.com.ar)
