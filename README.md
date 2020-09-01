@@ -8,7 +8,7 @@ Si querés contactarme, acá están mis redes sociales!
 [![Linkedin Badge](https://img.shields.io/badge/-MatíasBoldrini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matías-boldrini-93b146192/)]( https://www.linkedin.com/in/matías-boldrini-93b146192/)
 [![Instagram Badge](https://img.shields.io/badge/-matibol_16-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/matibol_16/)](https://www.instagram.com/matibol_16/)
 [![Youtube Badge](https://img.shields.io/badge/-MatíasBoldrini-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UChnXf3O49gMiyDc_RhVcP7w)](https://www.youtube.com/channel/UChnXf3O49gMiyDc_RhVcP7w)
-[![Gmail Badge](https://img.shields.io/badge/-matias@boldrini.com.ar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matias@boldrini.com.ar)](matias@boldrini.com.ar)
+[![Gmail Badge](https://img.shields.io/badge/-matias@boldrini.com.ar-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matias@boldrini.com.ar)](mailto:matias@boldrini.com.ar)
 
 ## ⚡ Tecnologías
 
