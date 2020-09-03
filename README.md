@@ -27,5 +27,6 @@ Si querés contactarme, acá están mis redes sociales!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MatiasBoldrini&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasBoldrini&layout=compact)
-
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets1.lottiefiles.com/packages/lf20_oh6P9B.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;" hover loop  autoplay></lottie-player>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ShadowFighter99.ShadowFighter99)
