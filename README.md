@@ -2,7 +2,7 @@
 ![chrome offline game cast](https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif)
 ## Hola, soy Matías! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-# Redes Sociales:
+## Redes Sociales:
 
 [![Linkedin Badge](https://img.shields.io/badge/-MatíasBoldrini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matías-boldrini-93b146192/)]( https://www.linkedin.com/in/matías-boldrini-93b146192/)
 [![Instagram Badge](https://img.shields.io/badge/-matibol_16-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/matibol_16/)](https://www.instagram.com/matibol_16/)
