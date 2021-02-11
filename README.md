@@ -2,7 +2,6 @@
 ![chrome offline game cast](https://github.com/wayou/t-rex-runner/blob/gh-pages/assets/screenshot.gif)
 ## Hola, soy Matías! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-# Ingeniería en informática
 # Redes Sociales:
 
 [![Linkedin Badge](https://img.shields.io/badge/-MatíasBoldrini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matías-boldrini-93b146192/)]( https://www.linkedin.com/in/matías-boldrini-93b146192/)
